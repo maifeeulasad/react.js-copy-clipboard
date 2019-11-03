@@ -1,0 +1,24 @@
+{
+  "name": "copy-clipboard-js",
+  "version": "1.0.0",
+  "description": "Directly copy any string to clipboard in react.js with this module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maifeeulasad/react.js-copy-clipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "clip-board",
+    "copy"
+  ],
+  "author": "Maifee Ul Asad <maifeeulasad@gmail.com> (https://maifeeulasad.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maifeeulasad/react.js-copy-clipboard/issues"
+  },
+  "homepage": "https://github.com/maifeeulasad/react.js-copy-clipboard#readme"
+}
