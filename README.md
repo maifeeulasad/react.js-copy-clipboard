@@ -15,3 +15,8 @@ import * as CCJ from "copy-clipboard-js";
 ...
 ```
 
+Available on [npm](https://www.npmjs.com/package/copy-clipboard-js)
+
+Just add in your `package.josn`
+
+ # "copy-clipboard-js": "^1.0.0"
