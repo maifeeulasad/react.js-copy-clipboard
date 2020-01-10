@@ -1,6 +1,6 @@
 {
   "name": "copy-clipboard-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Directly copy any string to clipboard in react.js with this module",
   "main": "index.js",
   "scripts": {
