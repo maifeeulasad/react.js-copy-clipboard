@@ -1,4 +1,4 @@
-# react.js-copy-clipboard
+# copy-clipboard-js
 Directly copy any string to clipboard in react.js with this module
 
 # Installation
@@ -9,12 +9,12 @@ Directly copy any string to clipboard in react.js with this module
 
     `"copy-clipboard-js": "^1.0.3"`
 
- # live demo
+ # Live demo
 
 See in [CodeSandbox](https://codesandbox.io/embed/copy-text-js-tvxbm?fontsize=14&hidenavigation=1&theme=dark)
 
 
- # dependency 
+ # Dependency 
 
   0 dependency
 
@@ -28,9 +28,6 @@ import * as CCJ from "copy-clipboard-js";
      CCJ.copyText("something to copy");//place it somewhere,anywhere,everywhere
 ...
 ```
-
-
-
 
 
 # Snap:
