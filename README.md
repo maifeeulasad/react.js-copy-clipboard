@@ -1,4 +1,9 @@
-# copy-clipboard-js
+# copy-clipboard-js [![NPM Downloads][downloads-image]][downloads-url]
+
+[downloads-image]: https://img.shields.io/npm/dm/copy-clipboard-js.svg
+[downloads-url]: https://npmcharts.com/compare/copy-clipboard-js?minimal=true
+
+
 Directly copy any string to clipboard in react.js with this module
 
 # Installation
