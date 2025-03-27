@@ -1,3 +1,9 @@
+/**
+  * Creates a temporary input element in the DOM.
+  * This can be used for various purposes, such as copying text to the clipboard.
+  * 
+  * @type {HTMLInputElement} The temporary input element created.
+  */
 exports.copyText = function(text_to_copy,alert_or_not) {
     if(text_to_copy===null || text_to_copy===undefined || text_to_copy==="")
         return;
