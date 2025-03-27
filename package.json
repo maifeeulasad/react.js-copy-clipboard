@@ -4,7 +4,9 @@
   "description": "Directly copy any string to clipboard in react.js with this module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npx tsc --declaration --allowJs --checkJs --emitDeclarationOnly index.js",
+    "prepublish": "npx tsc --declaration --allowJs --checkJs --emitDeclarationOnly index.js"
   },
   "repository": {
     "type": "git",
