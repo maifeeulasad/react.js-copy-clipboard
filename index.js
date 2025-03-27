@@ -13,6 +13,8 @@ exports.copyText = function (text_to_copy, alert_or_not) {
     document.body.appendChild(tempInput);
     tempInput.setAttribute('value', text_to_copy);
     tempInput.select();
+    // NOTE: no alternative to execCommand for copy to clipboard so far
+    // ref: https://stackoverflow.com/a/70831583/10305444
     document.execCommand('copy');
     document.body.removeChild(tempInput);
     if (alert_or_not)
