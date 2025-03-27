@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "npx tsc --declaration --allowJs --checkJs --emitDeclarationOnly index.js",
     "prepublish": "npx tsc --declaration --allowJs --checkJs --emitDeclarationOnly index.js"
   },
   "repository": {
