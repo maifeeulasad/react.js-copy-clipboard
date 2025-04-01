@@ -1,38 +1,55 @@
-# copy-clipboard-js [![NPM Downloads][downloads-image]][downloads-url]
+# 🚀 copy-clipboard-js 🎉📋 [![NPM Downloads][downloads-image]][downloads-url] 🏆
 
 [downloads-image]: https://img.shields.io/npm/dm/copy-clipboard-js.svg
 [downloads-url]: https://npmcharts.com/compare/copy-clipboard-js?minimal=true
 
+🔥 Instantly copy any string to clipboard in React.js with this super lightweight module! ⚡💡
 
-Directly copy any string to clipboard in react.js with this module
+---
 
-# Installation
+# 📦 Installation 💻🔧
 
- - run `npm i copy-clipboard-js`
+👉 Run this command in your terminal:
 
- - directly add in your `package.josn`
-
-    `"copy-clipboard-js": "^1.0.3"`
-
-# Example
-## React.js
-
+```bash
+npm i copy-clipboard-js
 ```
-...
+
+🎯 Or, directly add it to your `package.json`:
+
+```json
+"copy-clipboard-js": "^1.0.3"
+```
+
+---
+
+# 🚀 Example 🛠️✨
+## ⚛️ React.js 🏗️
+
+```javascript
 import * as CCJ from "copy-clipboard-js";
-...
-     CCJ.copyText("something to copy");//place it somewhere,anywhere,everywhere
-...
+
+// Copy text anywhere in your app! 📋✅
+CCJ.copyText("🚀 something to copy! 🎉");
 ```
 
-# Live demo
+---
 
-See in [CodeSandbox](https://codesandbox.io/embed/copy-text-js-tvxbm?fontsize=14&hidenavigation=1&theme=dark)
+# 🎭 Live Demo 🚀🌟
 
+Check it out in action 👉 [CodeSandbox](https://codesandbox.io/embed/copy-text-js-tvxbm?fontsize=14&hidenavigation=1&theme=dark) 🎨💡
 
-# Dependency 
+---
 
-0 dependency
+# 🏆 Dependency-Free! 🛠️
 
-# Snap:
+✅ 0 dependencies, lightweight, and blazing fast! ⚡🚀
+
+---
+
+# 📸 Snapshot 💖
+
 ![love from maifee](https://github.com/maifeeulasad/react.js-copy-clipboard/blob/master/snap/Screenshot%20(260).png)
+
+🎉 Enjoy coding! 🚀🔥
+
